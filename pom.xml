@@ -148,7 +148,7 @@
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-war-plugin</artifactId>
+                <artifactId>maven-war-plugin</artifactId>
                 <executions>
                     <execution>
                         <!-- Spring Boot Actuator displays build-related information
